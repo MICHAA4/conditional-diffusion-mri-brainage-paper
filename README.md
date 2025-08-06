@@ -51,7 +51,7 @@
 |1.0|**0.0103**|**0.5361**|
 
 #### 1-2. Guidance Scale 변화에 따라 생성된 뇌 MRI 이미지와 원본 이미지 비교
-<img width="600" height="500" alt="원본vs생성" src="https://github.com/user-attachments/assets/7afffbcd-2f9a-4167-a8eb-40f02f093275" />
+<img width="500" height="400" alt="원본vs생성" src="https://github.com/user-attachments/assets/7afffbcd-2f9a-4167-a8eb-40f02f093275" />
 
 
 
